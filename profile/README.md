@@ -11,8 +11,8 @@ The Magnetic Resonance Imaging Laboratory (MRILab) at i3M in Valencia blends qua
 ## MaRGE (MaRCoS Graphical Environment)
 Graphical environment based on MaRCoS to easily control low-field MRI scanners.
 
-## Autotuning
-Device controlled by arduino and nanoVNA to do automatic tuning/matching. It is integrated into MarGE.
+## RFAutoMaTE
+**RF** **A**utomatic **Ma**tching and **T**uning **E**quipment. Device controlled by arduino and nanoVNA to do automatic tuning/matching. It can be used from MaRGE.
 
 ## Interlock
 Device that interrupt the current source of Barthel GPA in case current is too high. It also remotely control the Barthel GPA and RFPA by serial port.
