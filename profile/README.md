@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/mriLab i3M-License-red)](https://github.com/mriLab-i3M/.github/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/mriLab_i3M-License-red)](https://github.com/mriLab-i3M/.github/blob/main/LICENSE)
 
 <img src="profile/mriLab-i3M_figure1.jpg" alt="alt text">
 
