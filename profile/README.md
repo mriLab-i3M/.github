@@ -1,3 +1,7 @@
+[![GitHub license](https://img.shields.io/badge/Version-you_like-red)](https://github.com/mriLab-i3M/.github/blob/main/LICENSE)
+
+
+
 <img src="profile/mriLab-i3M_figure1.jpg" alt="alt text">
 
 # mriLab-i3M
