@@ -1,4 +1,4 @@
-<img src="figures/mriLab-i3M_figure1.jpg" alt="alt text">
+<img src="profile/mriLab-i3M_figure1.jpg" alt="alt text">
 
 # mriLab-i3M
 
