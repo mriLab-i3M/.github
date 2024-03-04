@@ -8,18 +8,18 @@ The Magnetic Resonance Imaging Laboratory (MRILab) at i3M in Valencia blends qua
 
 # Ongoing projects in our github
 
-## MaRGE (MaRCoS Graphical Environment)
+## [MaRGE (MaRCoS Graphical Environment)](https://github.com/mriLab-i3M/MaRGE)
 Graphical environment based on MaRCoS to easily control low-field MRI scanners.
 
-## RFAutoMaTE
+## [RFAutoMaTE](https://github.com/mriLab-i3M/RFAutoMaTE)
 **RF** **A**utomatic **Ma**tching and **T**uning **E**quipment. Device controlled by arduino and nanoVNA to do automatic tuning/matching. It can be used from MaRGE.
 
-## Interlock
+<!--## Interlock
 Device that interrupt the current source of Barthel GPA in case current is too high. It also remotely control the Barthel GPA and RFPA by serial port.
 
 ## RF coil designer
 Code in matlab to design rf coils. Different rf coils geometries will be placed in different branches.
-
+-->
 <!--
 **mriLab-i3M/mriLab-i3M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
